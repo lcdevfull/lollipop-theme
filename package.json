@@ -1,0 +1,21 @@
+{
+  "name": "lollipop-theme",
+  "displayName": "Lollipop Theme",
+  "description": "Tema Baseado do tema Dracula e Tailwind Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lollopop Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lollopop Theme-color-theme.json"
+      }
+    ]
+  }
+}
