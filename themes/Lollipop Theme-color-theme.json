@@ -5,7 +5,7 @@
   "colors": {
     "contrastActiveBorder": "#00000000",
     "contrastBorder": "#00000000",
-    "editor.background": "#1e293b",
+    "editor.background": "#1d2433",
     "foreground": "#a7a5c9",
     "icon.foreground": "#a7a5c9ab",
     "editor.foreground": "#eeffff",
@@ -18,17 +18,21 @@
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#5B687E",
+        "foreground": "#40567c",
         "fontStyle": "italic"
       }
     },
     {
       "name": "Conhetes de Tags",
       "scope": [
+        "punctuation.definition",
         "punctuation.definition.tag",
         "punctuation",
-        "keyword.operator",
-        "storage.type"
+        "keyword.operator.assignment",
+        "keyword.operator.arithmetic",
+        "keyword.operator.comparison",
+        "keyword.operator.logical",
+        "storage.type.function.arrow"
       ],
       "settings": {
         "foreground": "#64748B"
@@ -43,21 +47,60 @@
     },
     {
       "name": "String Elements",
-      "scope": ["punctuation.definition", "string"],
+      "scope": ["string"],
       "settings": {
-        "foreground": "#A5F2A3"
+        "foreground": "#7FC97D"
       }
     },
     {
-      "scope": ["entity.other.attribute-name", "variable"],
+      "scope": [
+        "entity.other.attribute-name",
+        "keyword.operator",
+        "entity.name.function",
+        "support.variable.property",
+        "variable.other.property"
+      ],
       "settings": {
         "foreground": "#7DD3FC"
       }
     },
     {
-      "scope": ["text"],
+      "scope": ["text", "variable"],
       "settings": {
         "foreground": "#b7c3df"
+      }
+    },
+    {
+      "scope": ["keyword.control", "storage.modifier", "meta.object-literal"],
+      "settings": {
+        "foreground": "#EFD122"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "keyword.control.conditional",
+        "constant.numeric",
+        "constant.language.boolean",
+        "storage.type",
+        "constant.language.php"
+      ],
+      "settings": {
+        "foreground": "#BD93F9"
+      }
+    },
+    {
+      "name": "Italic Style",
+      "scope": [
+        "constant.language.boolean",
+        "comment",
+        "punctuation.definition.comment",
+        "meta.function.expression",
+        "storage.type.function",
+        "constant.language.php"
+      ],
+      "settings": {
+        "fontStyle": "italic"
       }
     }
   ]
