@@ -1,0 +1,64 @@
+{
+  "name": "Lollipop Theme",
+  "type": "dark",
+  "author": "Liliana Costa",
+  "colors": {
+    "contrastActiveBorder": "#00000000",
+    "contrastBorder": "#00000000",
+    "editor.background": "#1e293b",
+    "foreground": "#a7a5c9",
+    "icon.foreground": "#a7a5c9ab",
+    "editor.foreground": "#eeffff",
+    "activityBarBadge.background": "#263238",
+    "sideBarTitle.foreground": "#bbbbbb",
+    "sideBar.background": "#10141E"
+  },
+  "tokenColors": [
+    {
+      "name": "Comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#5B687E",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Conhetes de Tags",
+      "scope": [
+        "punctuation.definition.tag",
+        "punctuation",
+        "keyword.operator",
+        "storage.type"
+      ],
+      "settings": {
+        "foreground": "#64748B"
+      }
+    },
+    {
+      "name": "Tag Color",
+      "scope": ["entity.name.tag", "storage.type.function"],
+      "settings": {
+        "foreground": "#FF66B6"
+      }
+    },
+    {
+      "name": "String Elements",
+      "scope": ["punctuation.definition", "string"],
+      "settings": {
+        "foreground": "#A5F2A3"
+      }
+    },
+    {
+      "scope": ["entity.other.attribute-name", "variable"],
+      "settings": {
+        "foreground": "#7DD3FC"
+      }
+    },
+    {
+      "scope": ["text"],
+      "settings": {
+        "foreground": "#b7c3df"
+      }
+    }
+  ]
+}
