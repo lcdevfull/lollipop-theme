@@ -90,6 +90,7 @@
         "keyword.operator.new",
         "keyword.operator.expression.of",
         "constant.numeric",
+        "support.function.aggregate",
         "support.type.primitive"
       ],
       "settings": {
