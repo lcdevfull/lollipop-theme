@@ -8,8 +8,8 @@
     },
     "variable": "#A8B5D5",
     "variable.declaration": "#A8B5D5",
-    "method": "#F472B6",
-    //"parameter": "#BD93F9",
+    "method": "#7DD3FC",
+    "parameter": "#BD93F9",
     "interface": "#F472B6",
     "type": "#F472B6",
     "enum": "#F472B6",
@@ -90,8 +90,7 @@
         "keyword.operator.new",
         "keyword.operator.expression.of",
         "constant.numeric",
-        "support.type.primitive",
-        "variable.language.this"
+        "support.type.primitive"
       ],
       "settings": {
         "foreground": "#BD93F9"
@@ -159,8 +158,9 @@
     {
       "name": "Italic Style",
       "scope": [
-        "storage.modifier.async",
-        "keyword.control.flow",
+        "variable.parameter",
+        "storage.type",
+        "storage.type.enum",
         "entity.other.attribute-name.pseudo-class",
         "entity.other.attribute-name.pseudo-element"
       ],
