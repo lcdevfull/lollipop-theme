@@ -20,11 +20,6 @@ This is a color theme that brings together characteristics of some themes I like
 ![PHP](screenshots/screenshot-php.png)
 ![JS](screenshots/screenshot-js.png)
 
-### Notes
-
-- The theme is currently under development and has not yet been published on the Visual Studio Code Marketplace
-- If you want to use the theme, add it to the ".vscode/extensions" folder
-
 ---
 
 # Lollipop Theme
@@ -44,8 +39,3 @@ Este é um tema de cores que reune características de alguns temas que gosto. M
   "editor.lineHeight": 1.8
 }
 ```
-
-### Observações
-
-- O tema encontra-se em fase de desenvolvimento e ainda não foi publicado no Marketplace do Visual Studio Code
-- Caso deseje usar o tema, adiciona-lo na pasa ".vscode/extensions"
