@@ -16,9 +16,9 @@ This is a color theme that brings together characteristics of some themes I like
 }
 ```
 
-![HTML](screenshots/preview-html.png)
-![PHP](screenshots/preview-php.png)
-![Pyton](screenshots/preview-pyton.png)
+![HTML](screenshots/screenshot-html.png)
+![PHP](screenshots/screenshot-php.png)
+![JS](screenshots/screenshot-js.png)
 
 ### Notes
 
