@@ -16,8 +16,9 @@ This is a color theme that brings together characteristics of some themes I like
 }
 ```
 
-![HTML Theme](screenshots/lollipop-screenshot-html.png)
-![JS Theme](screenshots/lollipop-screenshot-js.png)
+![HTML](screenshots/preview-html.png)
+![PHP](screenshots/preview-php.png)
+![Pyton](screenshots/preview-pyton.png)
 
 ### Notes
 
