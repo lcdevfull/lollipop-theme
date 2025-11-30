@@ -103,7 +103,8 @@
         "constant.language",
         "storage.modifier",
         "support.variable.property",
-        "keyword.control.flow"
+        "keyword.control.flow",
+        "markup.underline.link.markdown"
       ],
       "settings": {
         "foreground": "#7DD3FC"
@@ -121,7 +122,7 @@
       }
     },
     {
-      "scope": ["keyword.control"],
+      "scope": ["keyword.control", "markup.heading.markdown"],
       "settings": {
         "foreground": "#F472B6"
       }
