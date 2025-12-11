@@ -16,9 +16,15 @@ This is a color theme that brings together characteristics of some themes I like
 }
 ```
 
-![HTML](screenshots/screenshot-html.png)
-![PHP](screenshots/screenshot-php.png)
-![JS](screenshots/screenshot-js.png)
+**HTML**
+![HTML](screenshots/theme-html.png)
+**Typescript**
+![Typescript](screenshots/theme-ts.png)
+
+**HTML - Gray**
+![HTML](screenshots/theme-html-gray.png)
+**Typescript - Gray**
+![Typescript](screenshots/theme-ts-gray.png)
 
 ---
 
