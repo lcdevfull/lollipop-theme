@@ -4,7 +4,7 @@
   "icon": "assets/icon.png",
   "publisher": "LilianaCosta",
   "description": "Tema Baseado do tema Dracula e Tailwind Theme",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "engines": {
     "vscode": "^1.106.1"
   },
@@ -23,9 +23,9 @@
         "path": "./themes/Lollipop Theme-color-theme.json"
       },
       {
-        "label": "Lollipop Theme - Aquarelle",
+        "label": "Lollipop Theme - Gray",
         "uiTheme": "vs-dark",
-        "path": "./themes/Lollipop Theme-color-theme-dark.json"
+        "path": "./themes/Lollipop Theme-color-theme-gray.json"
       }
     ]
   }
