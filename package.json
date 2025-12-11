@@ -21,6 +21,11 @@
         "label": "Lollipop Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Lollipop Theme-color-theme.json"
+      },
+      {
+        "label": "Lollipop Theme - Aquarelle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lollipop Theme-color-theme-dark.json"
       }
     ]
   }
