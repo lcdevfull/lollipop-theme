@@ -6,10 +6,10 @@
     "function": {
       "foreground": "#EFD122"
     },
-    "variable": "#A8B5D5",
-    "variable.declaration": "#A8B5D5",
+    "variable": "#D1D9ED",
+    "variable.declaration": "#D1D9ED",
     "method": "#58C9FF",
-    "parameter": "#A8B5D5",
+    "parameter": "#D1D9ED",
     "interface": "#F472B6",
     "type": "#F472B6",
     "enum": "#F472B6",
@@ -43,7 +43,7 @@
         "source.sql"
       ],
       "settings": {
-        "foreground": "#A8B5D5"
+        "foreground": "#D1D9ED"
       }
     },
     {
@@ -64,7 +64,7 @@
     {
       "scope": ["support.type.property-name"],
       "settings": {
-        "foreground": "#A8B5D5"
+        "foreground": "#D1D9ED"
       }
     },
     {
@@ -142,7 +142,7 @@
     {
       "scope": ["constant.other"],
       "settings": {
-        "foreground": "#A8B5D5"
+        "foreground": "#D1D9ED"
       }
     },
     {
