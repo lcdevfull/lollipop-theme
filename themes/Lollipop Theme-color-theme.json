@@ -4,21 +4,21 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "function": {
-      "foreground": "#F3E077"
+      "foreground": "#EFD122"
     },
     "variable": "#A8B5D5",
     "variable.declaration": "#A8B5D5",
-    "method": "#7DD3FC",
+    "method": "#58C9FF",
     "parameter": "#A8B5D5",
     "interface": "#F472B6",
     "type": "#F472B6",
     "enum": "#F472B6",
-    "enumMember": "#ffd580",
-    "property": "#ffd580",
-    "class.static": "#ffd580",
-    "property.readonly": "#ffd580",
+    "enumMember": "#EFD122",
+    "property": "#EFD122",
+    "class.static": "#EFD122",
+    "property.readonly": "#FEFFC4",
     "selfParameter": "#F472B6",
-    "namespace": "#7DD3FC"
+    "namespace": "#58C9FF"
   },
   "tokenColors": [
     {
@@ -74,13 +74,13 @@
         "meta.property-value.css"
       ],
       "settings": {
-        "foreground": "#F3E077"
+        "foreground": "#EFD122"
       }
     },
     {
       "scope": ["entity.other.attribute-name", "support.function.misc"],
       "settings": {
-        "foreground": "#7DD3FC"
+        "foreground": "#58C9FF"
       }
     },
     {
@@ -107,7 +107,7 @@
         "markup.underline.link.markdown"
       ],
       "settings": {
-        "foreground": "#7DD3FC"
+        "foreground": "#58C9FF"
       }
     },
     {
@@ -118,7 +118,7 @@
         "variable.other.property"
       ],
       "settings": {
-        "foreground": "#F3E077"
+        "foreground": "#EFD122"
       }
     },
     {
