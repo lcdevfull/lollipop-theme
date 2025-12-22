@@ -4,9 +4,14 @@
   "icon": "assets/icon.png",
   "publisher": "LilianaCosta",
   "description": "Tema Baseado do tema Dracula e Tailwind Theme",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "engines": {
-    "vscode": "^1.106.1"
+    "vscode": "^1.47.0"
+  },
+  "author": {
+    "name": "Liliana Costa",
+    "email": "contato@lilianacosta.dev",
+    "url": "https://github.com/lcdevfull"
   },
   "repository": {
     "type": "git",

@@ -11,7 +11,7 @@ This is a color theme that brings together characteristics of some themes I like
 
 ```json
 {
-  "editor.fontSize": 15,
+  "editor.fontSize": 16,
   "editor.lineHeight": 1.8
 }
 ```
@@ -41,7 +41,7 @@ Este é um tema de cores que reune características de alguns temas que gosto. M
 
 ```json
 {
-  "editor.fontSize": 15,
+  "editor.fontSize": 16,
   "editor.lineHeight": 1.8
 }
 ```
